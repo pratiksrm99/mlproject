@@ -77,6 +77,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.DS_Store
+catboost_info/
 
 # IPython
 profile_default/
